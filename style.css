@@ -543,8 +543,8 @@ nav {
     background-size: cover;
     background-repeat: no-repeat;
     text-align: left;
-    border-top-right-radius: 46%;
-    border-bottom-right-radius: 46%;
+    border-top-right-radius: 198px;;
+    border-bottom-right-radius: 198px;
     z-index: 5;
 }
 
@@ -622,7 +622,7 @@ input:nth-child(3) {
 
 .book-food {
     width: 40vw;
-    margin-left: -450px;
+    margin-left: -400px;
 }
 
 .book-food img {
